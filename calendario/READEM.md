@@ -17,3 +17,9 @@ Personalizando o Projeto
 
 * 5 Aula Completada ok 🧑🏻‍🚀🚀  <br>
 Colocando o projeto no mundo + Próximos passos
+
+## Preview
+
+<p align="center">
+   <img alt="caledario da copa" src=".github/preview.png" width="100%">
+</p>
