@@ -21,5 +21,5 @@ Colocando o projeto no mundo + Próximos passos
 ## Preview
 
 <p align="center">
-   <img alt="caledario da copa" src=".github/preview.png" width="100%">
+   <img alt="caledario da copa" src="../github/preview.png" width="100%">
 </p>
