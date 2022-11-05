@@ -15,5 +15,5 @@ Introdução ao JavaScript
 * 4 Aula completada ok 🚀 <br>
 Personalizando o Projeto
 
-* 5 Aula 🧑🏻‍🚀  <br>
+* 5 Aula Completada ok 🧑🏻‍🚀🚀  <br>
 Colocando o projeto no mundo + Próximos passos
